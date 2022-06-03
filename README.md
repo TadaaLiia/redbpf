@@ -27,9 +27,9 @@ programs using Rust. It includes:
   
  ## Folder Structure & Architecture
 
-![FolderStructure](https://github.com/TadaaLiia/redbpf/main/images/redbpf_structure.png)
+![FolderStructure](https://github.com/TadaaLiia/redbpf/blob/4995af0cd11c9e9704674e50a36ac503a5d212e5/images/redbpf_structure.png)
 
-![Architecture](https://github.com/TadaaLiia/redbpf/main/images/redbpf_structure2.png)
+![Architecture](https://github.com/TadaaLiia/redbpf/blob/4995af0cd11c9e9704674e50a36ac503a5d212e5/images/redbpf_structure2.png)
 
 
 # Features
