@@ -24,6 +24,13 @@ programs using Rust. It includes:
 
 - [cargo-bpf](./cargo-bpf/src/main.rs) - a cargo subcommand for creating,
   building and debugging eBPF programs
+  
+ ## Folder Structure & Architecture
+
+![FolderStructure](https://github.com/TadaaLiia/redbpf/blob/607d838f389b3ec888e868e35643dac2f0614547/images/redbpf_structure.png)
+
+![Architecture](https://github.com/TadaaLiia/redbpf/blob/607d838f389b3ec888e868e35643dac2f0614547/images/redbpf_structure2.png)
+
 
 # Features
 
